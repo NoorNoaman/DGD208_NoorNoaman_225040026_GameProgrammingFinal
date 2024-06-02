@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DGD208_NoorNoaman_225040026_GameProgramming/1.0.0": {
+        "runtime": {
+          "DGD208_NoorNoaman_225040026_GameProgramming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DGD208_NoorNoaman_225040026_GameProgramming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

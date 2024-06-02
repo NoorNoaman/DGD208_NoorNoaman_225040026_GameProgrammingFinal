@@ -1,0 +1,8 @@
+Game Started
+6/2/2024 10:02:06 PM: move
+6/2/2024 10:02:09 PM: look
+6/2/2024 10:02:24 PM: interact
+6/2/2024 10:02:31 PM: move
+6/2/2024 10:02:33 PM: look
+6/2/2024 10:02:37 PM: quit
+6/2/2024 10:02:37 PM: Game Ended

@@ -1,0 +1,14 @@
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\bin\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.exe
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\bin\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.deps.json
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\bin\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.runtimeconfig.json
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\bin\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.dll
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\bin\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.pdb
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.AssemblyInfoInputs.cache
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.AssemblyInfo.cs
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.csproj.CoreCompileInputs.cache
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.dll
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\refint\DGD208_NoorNoaman_225040026_GameProgramming.dll
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.pdb
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\DGD208_NoorNoaman_225040026_GameProgramming.genruntimeconfig.cache
+D:\New folder\UniYear2\Mobile Programming\DGD208_NoorNoaman_225040026_GameProgramming\obj\Debug\net7.0\ref\DGD208_NoorNoaman_225040026_GameProgramming.dll
